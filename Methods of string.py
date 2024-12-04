@@ -92,3 +92,4 @@ str2="welcometothehomeDon2"
 print(str2.isalpha())
 str1="welcometothehomeDon"
 print(str1.isalnum())
+
